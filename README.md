@@ -3,7 +3,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/daitcl/ablesciSign)
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/daitcl/ablesciSign/ablesciSign.yml)
 
-这是一个用于科研通(AbleSci)网站的自动签到脚本，支持青龙面板和GitHub Actions双平台运行。每日北京时间7点40,21点40，两个时间点自动签到。
+这是一个用于科研通(AbleSci)网站的自动签到脚本，支持青龙面板和GitHub Actions双平台运行。
 
 ## 目录
 1. [功能特点](#1-功能特点)
@@ -220,16 +220,3 @@ user3@example.com:password3
 
 ## 6. 许可证
 本项目采用 [MIT 许可证](License)
-
----
-
-## 7. 微信公众号
-![微信公众号](./img/gzh.jpg)
-
----
-
-## 8. 赞赏
-
-请我一杯咖啡吧！
-
-![赞赏码](./img/skm.jpg)
